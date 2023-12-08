@@ -19,5 +19,15 @@ void loop()
 {
         //read motion sensor value
         int motionValue = digitalRead(motionSensorPin);
-        
+
+        if (motionValue == HIGH)
+        {
+                //motion detected and  update the last motuion time
+                lastMotionTime = millis();
+        }
+        if (millis()- lastMotionTime > flushDelay)
+        {
+                Serial.printIn(" No motion detected for a minuted. Flushing...");
+                digitalWrite(flushRelayPin, HIGH)
+        }
 }
