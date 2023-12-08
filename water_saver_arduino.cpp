@@ -8,5 +8,8 @@ unsigned long flushDelay = 60000;  //flush  delay in seconds
 
 void setup()
 {
-        
+        Serial.begin(9600);
+        //initialize pins
+        pinMode(motionSensorPin, INPUT);
+        pinMode(flushRelayPin, OUTPUT);
 }
