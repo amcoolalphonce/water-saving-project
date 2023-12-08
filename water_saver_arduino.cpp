@@ -12,4 +12,12 @@ void setup()
         //initialize pins
         pinMode(motionSensorPin, INPUT);
         pinMode(flushRelayPin, OUTPUT);
+        digitalWrite(flushRelayPin, LOW); // ensure flush relay is iniitially off
+}
+
+void loop()
+{
+        //read motion sensor value
+        int motionValue = digitalRead(motionSensorPin);
+        
 }
