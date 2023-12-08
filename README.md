@@ -26,5 +26,5 @@ I will upload the images for this connection
 * Connect the relay module to the Arduino
 * Connect the flushing Mechanism
 * Connect the power supply
-2. Implement the code in saver.cpp
+2. Implement the code in water_saver_arduino.cpp
 
