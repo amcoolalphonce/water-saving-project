@@ -18,4 +18,4 @@ A system that monitors if a person has used the urinal can thus be implemented s
 3. 5V Realy Module
 4. Powers Supply(5V)
 5. Flushing Mechanism
-
+6. Jumper Wires
