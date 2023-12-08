@@ -15,3 +15,6 @@ A system that monitors if a person has used the urinal can thus be implemented s
 ### REQUIREMENTS
 1. Arduino Board(Arduino Nano)
 2. PIR Motion Sensor(HC-SR501 PIR Motion Sensor)
+3. 5V Realy Module
+4. Powers Supply(5V)
+
