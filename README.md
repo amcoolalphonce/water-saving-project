@@ -8,3 +8,5 @@ This leads to more water being used as there are times when there are no users u
 ### BACKGROUND RESEARCH
 I conducted a physical evaluation of two urinals in the University Of Nairobi  premises, both at ADD and American Wing and I noted that the urinals wasted close to 15 litres of clean water every 10 minutes whether they have been used or not.
 This water that goes to watse can be conserved and used for other  activities if a system was to be implemented to monitor the automatic flushing
+
+### SOLUTION
