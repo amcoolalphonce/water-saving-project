@@ -21,9 +21,10 @@ A system that monitors if a person has used the urinal can thus be implemented s
 6. Jumper Wires
 
 ### METHOD
-* Connect the Hardware 
+1. Connect the Hardware 
 I will upload the images for this connection
 * Connect the relay module to the Arduino
 * Connect the flushing Mechanism
 * Connect the power supply
+2. Implement the code in saver.cpp
 
