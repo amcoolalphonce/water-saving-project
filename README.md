@@ -11,3 +11,7 @@ This water that goes to watse can be conserved and used for other  activities if
 
 ### SOLUTION
 A system that monitors if a person has used the urinal can thus be implemented such that it only flushes after a person has used the urinal, this will work to ensure that water does not continually run after it fills.
+
+### REQUIREMENTS
+1. Arduino Board(Arduino Nano)
+2. PIR Motion Sensor(HC-SR501 PIR Motion Sensor)
