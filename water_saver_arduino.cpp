@@ -33,5 +33,5 @@ void loop()
                 digitalWrite(flushRelayPin, LOW);
                 Serial.printIn("Flush Completed.");
         }
-        delay(100);
+        delay(100);//a small delay to avoid continuos reading
 }
