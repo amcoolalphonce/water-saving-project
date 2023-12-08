@@ -24,3 +24,6 @@ A system that monitors if a person has used the urinal can thus be implemented s
 * Connect the Hardware 
 I will upload the images for this connection
 * Connect the relay module to the Arduino
+* Connect the flushing Mechanism
+* Connect the power supply
+
