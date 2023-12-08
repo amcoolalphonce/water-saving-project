@@ -25,6 +25,7 @@ void loop()
                 //motion detected and  update the last motuion time
                 lastMotionTime = millis();
         }
+        //check if its time to flush after a  person has left
         if (millis()- lastMotionTime > flushDelay)
         {
                 Serial.printIn(" No motion detected for a minuted. Flushing...");
