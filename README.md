@@ -10,3 +10,4 @@ I conducted a physical evaluation of two urinals in the University Of Nairobi  p
 This water that goes to watse can be conserved and used for other  activities if a system was to be implemented to monitor the automatic flushing
 
 ### SOLUTION
+A system that monitors if a person has used the urinal can thus be implemented such that it only flushes after a person has used the urinal, this will work to ensure that water does not continually run after it fills.
