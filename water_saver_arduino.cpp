@@ -28,6 +28,9 @@ void loop()
         if (millis()- lastMotionTime > flushDelay)
         {
                 Serial.printIn(" No motion detected for a minuted. Flushing...");
-                digitalWrite(flushRelayPin, HIGH)
+                digitalWrite(flushRelayPin, HIGH);
+                delay(1000);
+                digitalWrite(flushRelayPin, LOW);
+                
         }
 }
