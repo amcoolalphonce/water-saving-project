@@ -36,3 +36,4 @@ void loop()
         }
         delay(100);//a small delay to avoid continuos reading
 }
+// to add complex if conditions to interrogate what happens if people enter consecutively
