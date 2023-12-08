@@ -30,7 +30,7 @@ void loop()
         {
                 Serial.printIn(" No motion detected for a minuted. Flushing...");
                 digitalWrite(flushRelayPin, HIGH);
-                delay(1000);
+                delay(1000); // keep flush relay on for a second
                 digitalWrite(flushRelayPin, LOW);
                 Serial.printIn("Flush Completed.");
         }
