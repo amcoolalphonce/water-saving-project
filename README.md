@@ -33,3 +33,5 @@ I will upload the images for this connection
 * Connect the power supply
 2. Implement the code in water_saver_arduino.cpp
 
+
+## CIRCUIT TO IMPLEMENT(...still working on
