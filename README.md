@@ -34,4 +34,4 @@ I will upload the images for this connection
 2. Implement the code in water_saver_arduino.cpp
 
 
-## CIRCUIT TO IMPLEMENT(...still working on
+## CIRCUIT TO IMPLEMENT(...still working on it)
