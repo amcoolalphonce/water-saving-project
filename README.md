@@ -35,3 +35,5 @@ I will upload the images for this connection
 
 
 ## CIRCUIT TO IMPLEMENT(...still working on it)
+![image](https://github.com/amcoolalphonce/water-saving-project/assets/82672024/c382cc72-db84-4164-9d42-8c1878067681)
+
