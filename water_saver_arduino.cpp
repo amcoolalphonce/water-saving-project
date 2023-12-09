@@ -1,3 +1,4 @@
+//include the necessary libraries
 #include<Wire.h>
 #include<PIR.h>
 // Defining the constants required
