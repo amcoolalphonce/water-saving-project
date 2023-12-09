@@ -20,6 +20,7 @@ A system that monitors if a person has used the urinal can thus be implemented s
 5. Flushing Mechanism
 6. Jumper Wires
 7. USB Cable Type A to B
+8.  12V Power Adapter 
 
 ### METHOD
 1. Connect the Hardware 
