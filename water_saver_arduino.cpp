@@ -18,6 +18,9 @@ void setup()
         pinMode(motionSensorPin, INPUT);
         pinMode(flushRelayPin, OUTPUT);
         digitalWrite(flushRelayPin, LOW); // ensure flush relay is iniitially off
+
+        //or 
+        //pinMode(RELAY_PIN, OUTPUT);
 }
 
 void loop()
